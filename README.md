@@ -7,13 +7,12 @@ The objective of this project is to use Linux commands to manage file permission
 ### Skills Learned
 - Understanding of Linux file permissions
 - How to change file permissions using chmod
-- how to modify ownership with chown
 - Use of ls command to view file permissions
 
 ### Tools Used
 - Linux command line interface (CLI)
 - chmod command
-- chown command
 - ls command
 
 ## Project Materials
+<a href="https://docs.google.com/document/d/1unX1WOdIcOmNgpH5tu1QxpuS36sGLppQCzZkWGk9VBk/edit?usp=sharing">File Permissions in Linux</a>
